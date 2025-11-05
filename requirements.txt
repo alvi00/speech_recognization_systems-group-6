@@ -1,0 +1,12 @@
+numpy
+scipy
+pandas
+scikit-learn
+librosa
+soundfile
+audioread
+matplotlib
+seaborn
+tqdm
+requests
+xgboost
