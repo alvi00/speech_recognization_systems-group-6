@@ -1,0 +1,13 @@
+,precision,recall,f1-score,support
+African,0.0,0.0,0.0,3.0
+East Asian or South East Asian,0.0,0.0,0.0,16.0
+Eastern European,0.0,0.0,0.0,20.0
+English,0.295,1.0,0.4555984555984556,59.0
+"Middle Eastern, Central Asian or Southern Europe",0.0,0.0,0.0,15.0
+Northern European,0.0,0.0,0.0,3.0
+Oceanian or Other,0.0,0.0,0.0,38.0
+South Asian,0.0,0.0,0.0,10.0
+Western European,0.0,0.0,0.0,36.0
+accuracy,0.295,0.295,0.295,0.295
+macro avg,0.032777777777777774,0.1111111111111111,0.05062205062205062,200.0
+weighted avg,0.08702499999999999,0.295,0.1344015444015444,200.0
