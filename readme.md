@@ -127,13 +127,14 @@ python predict_video.py --path "path/to/video.mp4"
 
 ## 👥 Contributors
 
-  * **Ahmad Fahmid (alvi00)** - *Lead Developer & Researcher*
-  * **Fahim Foysal**
-  * **Shefa Tabassum**
-  * **Jannatul Ferdous Mim**
+  * **Ahmad Fahmid** - *overall project architecture, Random Forest implementation and fine-tuning*
+  * **Fahim Foysal** - *XGBoost classifier development and fine-tuning*
+  * **Shefa Tabassum** - *k-NN classifier with Gaussian noise augmentation and fine-tuning*
+  * **Jannatul Ferdous Mim** - * SVM classifier implementation*
   * **Group of 4 Members - Group 6** - *North South University*
 
 <!-- end list -->
 
 ```
 ```
+
